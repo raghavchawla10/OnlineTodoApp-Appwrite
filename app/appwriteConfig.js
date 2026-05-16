@@ -2,8 +2,8 @@ import { Client, Databases } from "react-native-appwrite";
 
 const config = {
   endpoint: "https://fra.cloud.appwrite.io/v1",
-  projectId: "69fd9b8e001c4f74d737",
-  db: "69fd9c530003413c154b", // database ID
+  projectId: "ur id",
+  db: "ur db", // database ID
   col: {
     todo: "Todo-name-list" // copy actual collection ID from Appwrite console
   }
